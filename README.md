@@ -12,3 +12,4 @@ This program uses **pyqrcode** & **pypng**.
 <img src="./QR_code.png" />
 
 ***
+![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
